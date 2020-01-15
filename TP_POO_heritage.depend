@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1578666203 source:h:\c_c++\tp_poo_heritage\src\date.cpp
+	"Date.h"
+	<ctime>
+	<iostream>
+	<sstream>
+
+1578665478 h:\c_c++\tp_poo_heritage\include\date.h
+	<string>
+
+1579095738 source:h:\c_c++\tp_poo_heritage\main.cpp
+	<iostream>
+	<Personne.h>
+	<Employe.h>
+	<Date.h>
+	<Adresse.h>
+	<string>
+
+1579129580 h:\c_c++\tp_poo_heritage\include\personne.h
+	<Date.h>
+	<Adresse.h>
+	<string>
+
+1578665244 h:\c_c++\tp_poo_heritage\include\adresse.h
+	<string>
+
+1578665581 source:h:\c_c++\tp_poo_heritage\src\adresse.cpp
+	"Adresse.h"
+
+1579095146 source:h:\c_c++\tp_poo_heritage\src\personne.cpp
+	"Personne.h"
+	<iostream>
+
+1579129822 source:h:\c_c++\tp_poo_heritage\src\chef.cpp
+	"Chef.h"
+	<iostream>
+	<string>
+
+1579128601 h:\c_c++\tp_poo_heritage\include\chef.h
+	<string>
+	"Employe.h"
+
+1579129834 source:h:\c_c++\tp_poo_heritage\src\employe.cpp
+	"Employe.h"
+	<iostream>
+	<string>
+
+1579129589 h:\c_c++\tp_poo_heritage\include\employe.h
+	<string>
+	"Personne.h"
+
